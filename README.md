@@ -69,7 +69,7 @@ string.length
 # If and else if 
 Function will run the code if the statement in parenthesis is true, otherwise, it won't do anything. 
 
-![chart](https://lh3.googleusercontent.com/proxy/b9p77GrfgFMNvYQReHAjZCT7ON85Vo5qxYae00OzH8Gcf71ylmfx77wE3mUMxN4L4cqSTKNrKNdqJ_6AX_Ob4mPXtEoR_Ros-SHy5RR3)
+![chart](https://i.pinimg.com/736x/f7/40/27/f74027fdbe0fc8e16ec4808728d2f8f6.jpg)
 
 ```
 // What is 1+1?
