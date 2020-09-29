@@ -44,9 +44,9 @@ string.toUpperCase();
 string.toLowerCase();
 ```
 * This method changes string to capital or lower cases.
-## split(index1, index2)
+## substring(index1, index2)
 ```
-string.split(index1, index2)
+string.substring(index1, index2)
 ```
 * It split the string from index1 to index 2.
 ## length
